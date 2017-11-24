@@ -16,8 +16,8 @@ Go to [Coghitive Service](https://azure.microsoft.com/en-us/try/cognitive-servic
 ## Step-5
 Run the project.
 
-![alt text](https://github.com/Manan-Chakma/Emotion-Detection-Using-Microsoft-Cognitive-Service-Emotion-API/tree/master/New%20folder/Capture1.png "")
+(https://github.com/Manan-Chakma/Emotion-Detection-Using-Microsoft-Cognitive-Service-Emotion-API/tree/master/New%20folder/Capture1.png "")
 
-![alt text](https://github.com/Manan-Chakma/Emotion-Detection-Using-Microsoft-Cognitive-Service-Emotion-API/tree/master/New%20folder/Capture2.png"")
+(https://github.com/Manan-Chakma/Emotion-Detection-Using-Microsoft-Cognitive-Service-Emotion-API/tree/master/New%20folder/Capture2.png"")
 
-![alt text](https://github.com/Manan-Chakma/Emotion-Detection-Using-Microsoft-Cognitive-Service-Emotion-API/tree/master/New%20folder/Capture3.png "")
+(https://github.com/Manan-Chakma/Emotion-Detection-Using-Microsoft-Cognitive-Service-Emotion-API/tree/master/New%20folder/Capture3.png "")
