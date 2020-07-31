@@ -41,7 +41,7 @@ namespace EmotionMaster
         StorageFile photo;
         IRandomAccessStream imageStream;
 
-        const string APIKEY = "0f62c6d737294bcf9fb1ec5fdab5bccb";
+        const string APIKEY = "****";
         EmotionServiceClient emotionServiceClient = new EmotionServiceClient(APIKEY);
         Emotion[] emotionResult;
 
